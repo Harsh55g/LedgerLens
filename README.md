@@ -41,6 +41,5 @@ DI_KEY=your_document_intelligence_key
 DI_ENDPOINT=your_document_intelligence_endpoint
 CS_KEY=your_content_safety_key
 CS_ENDPOINT=your_content_safety_endpoint
-
 🤝 Team Fury55
 Harsh - Lead Developer & AI Integration

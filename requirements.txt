@@ -1,0 +1,5 @@
+azure-ai-documentintelligence
+azure-ai-contentsafety
+azure-core
+python-dotenv
+reportlab
